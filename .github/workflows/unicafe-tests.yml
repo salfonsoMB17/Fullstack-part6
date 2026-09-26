@@ -2,7 +2,7 @@ name: Unicafe tests
 
 on:
   push:
-    branches: [xmain]
+    branches: [master]
 
 jobs:
   playwright-tests:
